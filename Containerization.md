@@ -1,9 +1,9 @@
 # Containerization
 To add the offical docker repository and install Docker on Linux
 ```
-sudo dnf config-manager  https://download.docker.com/linux/centos/docker-ce.repo
+sudo dnf config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 
-sudo dnf install -y docker-ce docker-ce-cli containerd.io docker-compose-plug
+sudo dnf install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 ```
 Start and enable
 ```
