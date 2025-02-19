@@ -36,3 +36,4 @@ The merge command can be use to resolve conflicts between file versions
 ```
 git merge branch-you-named
 ```
+![x](https://devops-final-bucket.s3.us-east-1.amazonaws.com/Screenshot+2025-02-19+031216.jpg)

@@ -81,3 +81,4 @@ For example this following command will
 ```
 docker run --name portainer -p 8000:8000 -p 9443:9443 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data -d portainer/portainer-ce
 ```
+![x](https://devops-final-bucket.s3.us-east-1.amazonaws.com/Screenshot+2025-02-19+031246.jpg)
